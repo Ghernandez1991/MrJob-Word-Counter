@@ -4,3 +4,5 @@ Using MrJob, create a word counter which breaks the paragraph into small increme
 Users will need to run the file in the command line and reference the text file. 
 
 python bacon_counter.py input.txt
+
+![Alt text](image.PNG?raw=true "Optional Title")
